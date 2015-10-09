@@ -1,0 +1,10 @@
+{
+  "appId": "registertemplate",
+  "apiKey": "f09bb4cc954f39294b9c7f5a2a57fe9a6b8d28cc75ee8d6985b869ba0bd0cdc7",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
